@@ -1,0 +1,134 @@
+body {
+			margin: 0;
+			padding: 0;
+			font-family: Verdana, Geneva, Tahoma, sans-serif;
+			font-size: 16px;
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5 {
+			font-family: 'Times New Roman', Times, serif;
+			font-style: italic;
+			font-weight: normal;
+			margin: 0;
+			padding: 0;
+			text-align: center;
+		}
+
+		h2 {
+			margin: 0 0 20px 0;
+			text-shadow: 0px 4px 0px rgba(206,189,132, .5);
+		}
+
+		address {
+			font-family: 'Times New Roman', Times, serif;
+			font-style: italic;
+			text-align: center;
+			font-size: 14px;
+		}
+
+		p {
+			font-size: 12px;
+			line-height: 18px;
+		}
+
+		a,
+		a:active,
+		a:visited {
+			color: #666;
+		}
+
+		a:hover {
+			color: #999;
+		}
+
+		.header {
+			text-align: center;
+			padding: 20px;
+		}
+
+		.logo {
+			position: relative;
+		}
+
+		.logo:after {
+			content: '';
+			width: 150px;
+			height: 1px;
+			background-color: #cebd84;
+			position: absolute;
+			bottom: -4px;
+			left: 50%;
+			margin-left: -75px;
+		}
+
+		.logo div {
+			font-size: 50%;
+		}
+
+		.header-nav {
+			font-size: 12px;
+			margin-top: 10px;
+		}
+
+		.header-nav a {
+			display: inline-block;
+			padding: 10px;
+		}
+
+		.home-page img {
+			display: block;
+			max-width: 400px;
+			width: 100%;
+			margin: 0 auto 30px auto;
+		}
+
+		.contact-page {
+			text-align: center;
+		}
+
+		.contacts {
+			margin-top: 20px;
+		}
+
+		.map-container {
+			position: relative;
+			width: 100%;
+			max-width: 450px;
+			margin: 40px auto;
+		}
+
+		.gmap_canvas {
+			overflow: hidden;
+			background: none !important;
+			position: relative;
+			padding-bottom: 56.25%;
+		}
+
+		iframe {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+		}
+
+		.contact-text {
+			max-width: 350px;
+			margin: 0 auto;
+		}
+
+		.main-footer {
+			padding: 30px;
+			border-top: 1px solid #ccc;
+			margin-top: 60px;
+		}
+
+		.wrapper {
+			margin: 0 auto;
+			max-width: 600px;
+			padding: 0 30px;
+		}
