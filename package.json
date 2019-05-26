@@ -1,0 +1,51 @@
+{
+  "name": "test-react-parcel",
+  "version": "1.0.0",
+  "description": "test description",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/cli.git"
+  },
+  "engines": {
+    "node": ">=8.9.4",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "test": "eslint src/ --ext .js",
+    "start": "NODE_ENV=development parcel src/index.html --open",
+    "build": "NODE_ENV=production parcel build src/index.html --public-url ./ --out-dir build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "eslintIgnore": [
+    "**/*.css.js",
+    "**/*.template.js",
+    "**/styles.js"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-syntax-async-generators": "^7.2.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-react-app": "^4.0.1",
+    "eslint-plugin-flowtype": "^3.9.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prefer-object-spread": "^1.2.1",
+    "eslint-plugin-react": "^7.13.0",
+    "eslint-plugin-react-hooks": "^1.6.0",
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "components": "^0.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-ga": "^2.5.7",
+    "react-router-dom": "^5.0.0",
+    "styled-components": "^4.2.0"
+  }
+}

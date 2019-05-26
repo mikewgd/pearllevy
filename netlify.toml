@@ -1,0 +1,13 @@
+[build]
+  base = "/"
+  publish = "build/"
+  command = "npm run build"
+
+[build.environment]
+  GOOGLE_ANALYTICS = "UA-139156553-2"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  
