@@ -12,7 +12,7 @@ export const ContactPage = () => (
       maxWidth="350px"
     >
       If you have any questions or wish to inquire about any of the services that
-      Mr. Levy & Mr. Guagliardi provide please feel free to contact us by phone, facsimile transmission, or e-mail.
+      Mr. Levy & Mr. Guagliardi provide, please feel free to contact us by phone, facsimile transmission, or e-mail.
     </Paragraph>
 
     <Paragraph
