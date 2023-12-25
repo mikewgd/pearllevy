@@ -24,7 +24,7 @@ export const Header = () => (
   <Wrapper>
     <Logo>
       <div>Law Office of</div>
-      Edward S. Levy
+      Levy & Guagliardi
     </Logo>
 
     <Nav>
