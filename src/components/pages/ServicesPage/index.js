@@ -26,8 +26,8 @@ export const ServicesPage = () => (
       aspects of residential closings, including contract negotiations, resolving all inspection
       issues, ordering title and survey, interfacing with the lender and doing everything that
       is necessary to facilitate a smooth and efficient closing.
-      Edward is a very &quot;hands on&quot; attorney who does not delegate important
-      responsibilities to others. He will make sure there are no surprises at closing,
+      Edward & Franks are very &quot;hands on&quot; attornies who do not delegate important
+      responsibilities to others. They will make sure there are no surprises at closing,
       and will protect all of your rights.
     </Paragraph>
   </Fragment>
