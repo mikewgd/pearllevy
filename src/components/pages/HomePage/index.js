@@ -3,11 +3,11 @@ import React, { Fragment } from 'react';
 import { Paragraph } from '../../styles';
 import { Image } from './HomePage.css';
 
-import EdwardSLevy from '../../../assets/images/edwardslevy.jpg';
+import EdwardSLevy from '../../../assets/images/IMG_2324.jpg';
 
 export const HomePage = () => (
   <Fragment>
-    <Image src={EdwardSLevy} alt="Edward S Levy" />
+    <Image src={EdwardSLevy} alt="Edward S Levy & Frank Guagliardi" />
     <Paragraph>
       Edward S. Levy is a Magna Cum Laude graduate of Syracuse University Law School and
       has been practicing law since 1979. He specializes in residential and commercial
@@ -17,7 +17,7 @@ export const HomePage = () => (
       matters in a professional manner.
     </Paragraph>
     <Paragraph>
-      Frank Guagliardi, Esq. has joined the firm in 2022, focusing
+      Frank Guagliardi, Esq. joined the firm in 2022, focusing
       his practice on residential real estate and land use matters. Mr. Guagliardi became
       a partner in April, 2023.
     </Paragraph>

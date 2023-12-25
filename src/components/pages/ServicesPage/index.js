@@ -16,7 +16,7 @@ export const ServicesPage = () => (
       outset a good working relationship with the client. At the Law Office of Levy & Guagliardi,
       each client is kept fully informed of developments with regular updates.
       The firm establishes relationships with its clients which extend beyond the
-      provisions of his legal services. The firms clients consider them to be a personal
+      provisions of its legal services. The firms clients consider them to be a personal
       friend and advisor.
     </Paragraph>
     <Paragraph>
@@ -26,7 +26,7 @@ export const ServicesPage = () => (
       aspects of residential closings, including contract negotiations, resolving all inspection
       issues, ordering title and survey, interfacing with the lender and doing everything that
       is necessary to facilitate a smooth and efficient closing.
-      Edward & Franks are very &quot;hands on&quot; attornies who do not delegate important
+      Edward & Frank are very &quot;hands on&quot; attorneys who do not delegate important
       responsibilities to others. They will make sure there are no surprises at closing,
       and will protect all of your rights.
     </Paragraph>
