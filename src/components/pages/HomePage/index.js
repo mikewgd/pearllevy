@@ -33,7 +33,7 @@ export const HomePage = () => (
       Prior to joining the firm, Frank worked as an associate in a New Jersey-based
       law firm, gaining invaluable experience representing a wide range of clients,
       from private developers to municipal councils and redevelopment agencies
-      throughout New Jersey. Prior to entering private practice.
+      throughout New Jersey.
     </Paragraph>
     <Paragraph>
       Frank received his law degree, cum laude, from the Elisabeth Haub School
