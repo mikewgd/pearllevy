@@ -11,7 +11,7 @@ export const HomePage = () => (
     <Paragraph>
       Edward S. Levy is a Magna Cum Laude graduate of Syracuse University Law School and
       has been practicing law since 1979. He specializes in residential and commercial
-      real estate and has done over 4,00 closings. In addition to doing real estate,
+      real estate and has done over 5,000 closings. In addition to doing real estate,
       he also handles wills, Municipal Court
       matters and collections. Mr. Levy is extremely thorough and efficient and handles all
       matters in a professional manner.
