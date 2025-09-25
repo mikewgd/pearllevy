@@ -20,7 +20,7 @@ export const ServicesPage = () => (
       friend and advisor.
     </Paragraph>
     <Paragraph>
-      Edward S. Levy has handled over 4,000 residential closings in his career. He has handled
+      Edward S. Levy has handled over 5,000 residential closings in his career. He has handled
       multimillion dollar commercial closings including the purchase and sale of pharmacies,
       restaurants, medical practices, and many other types of businesses. He handles all
       aspects of residential closings, including contract negotiations, resolving all inspection
